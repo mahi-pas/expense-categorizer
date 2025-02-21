@@ -1,0 +1,3 @@
+# Expense Categorizer
+
+The Expense Categorizer helps you quickly and easily categorize your expenses into different buckets. With its intuitive interface and powerful algorithms, you can streamline your financial tracking and gain better insights into your spending habits. Whether you're managing personal finances or overseeing a business budget, this tool simplifies the process, saving you time and effort.
