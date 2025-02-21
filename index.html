@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+    <title>Expense Categorizerinator 9000</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    
+    <input type="file" id="expenseFileInput" accept=".csv" />
+    <div id="expenseGame">
+        <div id="infoArea">
+            <h1 id="cost"></h1>
+            <h2 id="description"></h2>
+        </div>
+        <div id="categoryButtonsArea"></div>
+    </div>
+    <input type="text" id="addCategoryInput" placeholder="Add Category" />
+    <input type="button" id="addCategoryButton" value="Add Category" />
+    <input type="button" id="downloadData" value="Download CSV" />
+    <table id="expenseTable">
+        
+    </table>
+
+    <script src="scripts/categorize.js"></script>
+</body>
